@@ -1,0 +1,3 @@
+This project successfully demonstrates how Generative AI, embeddings, and vector search can be combined to build an intelligent cricket analytics system. CrickAI answers natural language queries, suggests teams based on pitch and format, and compares player performance using context-aware reasoning. It bridges the gap between raw stats and real-time insights.
+
+In the future, the system can be enhanced by integrating real-time match feeds, player injury reports, and venue-specific performance. Adding image and video understanding (e.g., from match footage) and deploying as a fully interactive web app (Streamlit or Gradio) could further elevate user experience and decision-making.
